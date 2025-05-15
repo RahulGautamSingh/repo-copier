@@ -1,0 +1,9 @@
+{
+    "name": "repo-copier",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "ISC",
+    "description": "A script to create multiple copies of a local repo on Github",
+    "author": "RahulGautamSingh<rahultesnik@gmail.com>",
+    "type": "module"
+}
