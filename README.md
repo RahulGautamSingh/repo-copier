@@ -15,7 +15,7 @@ Make sure [gh CLI]([url](https://cli.github.com/manual/)) is installed and you'r
 gh auth login
 ```
 
-Set up the script
+#### Set up the script
 
 Copy `index.js` to your local machine
 
@@ -28,6 +28,9 @@ node index.js <path-to-original-repo>
 ```
 
 Note: Mae sure the original repo is git initialized.
+
+---
+
 
 !! Happy Coding !!
 
